@@ -1,0 +1,17 @@
+.col-md-3 {
+  border: 3px solid black;
+}
+
+.row p {
+  display: none;
+}
+
+.short {
+  padding-bottom: 33px;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: red;
+}
